@@ -14,7 +14,7 @@ body {
     grid-template-areas: "header header header" "add-quotes update-quote delete-quote" "quotes quotes quotes";
     margin: 2em;
     padding: 2rem;
-    background-color: #e3dddd;
+    background-color: #ffeaea;
     color: rgb(23, 21, 21);
     background-attachment: fixed;
     background-size: cover;
